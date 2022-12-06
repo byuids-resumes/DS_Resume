@@ -18,7 +18,7 @@ __BRIGHAM YOUNG UNIVERSITY - IDAHO__,
 
 ## Related Experience
 
-#### Certificates
+### Certificates
 
 - 07/21/2021 Brigham Young University - Certificate - Database
 - 07/21/2021 Brigham Young University - Certificate - Web Front-end
