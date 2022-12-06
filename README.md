@@ -18,7 +18,12 @@ __BRIGHAM YOUNG UNIVERSITY - IDAHO__,
 
 ## Related Experience
 
-#### (I'd include a section on any certifications and relevant skills.)
+#### Certificates
+
+- 07/21/2021 Brigham Young University - Certificate - Database
+- 07/21/2021 Brigham Young University - Certificate - Web Front-end
+- 12/2022 Brigham Young University - Certificate - Web Back-end
+- 06/2023 Brigham Young University - Certificate - Data Science
 
 ### Internships
 
