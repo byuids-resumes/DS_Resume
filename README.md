@@ -12,11 +12,17 @@ A BYUI online student and Database Developer.
 ## Education
 
 `2019-2023`
-__BRIGHAM YOUNG UNIVERSITY - IDAHO
 
+__BRIGHAM YOUNG UNIVERSITY - IDAHO__,
 - BACHELOR OF SCIENCE: Applied Technology
 - GPA: 3.863
 
+### Certificates
+
+- 07/21/2021 Brigham Young University - Certificate - Database
+- 07/21/2021 Brigham Young University - Certificate - Web Front-end
+- 12/2022 Brigham Young University - Certificate - Web Back-end
+- 06/2023 Brigham Young University - Certificate - Data Science
 
 ## Related Experience
 
@@ -25,7 +31,7 @@ __BRIGHAM YOUNG UNIVERSITY - IDAHO
 `May 2022 - August 2022`
 __Curium Pharma__, St. Louis, MO.
 
-- Responsible for creating, administering, and troubleshooting computer databases that can process large amounts of information and keep it secure.
+- Responsible for creating, administering, and troubleshooting computer databases which process and secure large amounts of data.
 - Created a Database using C# and SQL.
 - Presented project in front of executives.
 
